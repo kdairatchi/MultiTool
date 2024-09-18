@@ -1,2 +1,8 @@
 colorama==0.4.6
 scapy==2.4.5
+python3-full
+golang-go
+scapy
+python3-pip
+nmap
+naabu
