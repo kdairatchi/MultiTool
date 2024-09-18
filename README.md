@@ -8,14 +8,14 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Installation Steps](#installation-steps)
+- [Prerequisites](#prerequisites)
+- [Installation Steps](#installation-steps)
 - [Usage](#usage)
-  - [Running the Tool](#running-the-tool)
-  - [Example](#example)
+- [Running the Tool](#running-the-tool)
+- [Example](#example)
 - [Error Handling](#error-handling)
-  - [Common Issues](#common-issues)
-  - [Fixes](#fixes)
+- [Common Issues](#common-issues)
+- [Fixes](#fixes)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -51,8 +51,8 @@ You also need to add `naabu` to your system's PATH variable so it can be run fro
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/multi-tool-network-scanner.git
-    cd multi-tool-network-scanner
+    git clone https://github.com/kdairatchi/MultiTool.git
+    cd MultiTool
     ```
 
 2. **Install Python Dependencies**
@@ -76,7 +76,7 @@ You also need to add `naabu` to your system's PATH variable so it can be run fro
 To scan a target with the tool, use the following command:
 
 ```bash
-python multi_tool.py <target>
+python multi-tool.py <target>
 ```
 
 Where `<target>` is the IP address or domain name of the target you want to scan.
@@ -86,7 +86,7 @@ Where `<target>` is the IP address or domain name of the target you want to scan
 To scan a target, simply provide the target as a command-line argument:
 
 ```bash
-python multi_tool.py 192.168.1.1
+python multi-tool.py 192.168.1.1
 ```
 
 This will run the scan using `naabu` and output the results to the terminal with colored formatting.
@@ -94,7 +94,7 @@ This will run the scan using `naabu` and output the results to the terminal with
 ### Example
 
 ```bash
-$ python multi_tool.py 192.168.1.1
+$ python multi-tool.py 192.168.1.1
 ```
 
 Expected Output:
