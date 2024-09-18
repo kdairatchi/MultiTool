@@ -1,7 +1,3 @@
-Here’s a comprehensive `README.md` file for your GitHub repository:
-
----
-
 # Multi-Tool Network Scanner
 
 ![Banner](https://via.placeholder.com/728x90.png?text=Multi-Tool+Network+Scanner)  
@@ -170,4 +166,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-Feel free to adjust the content and links according to your GitHub repository setup. Let me know if you need further assistance!
